@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SujoyBehera/leetcode-sols/tree/master/0053-maximum-subarray) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SujoyBehera/leetcode-sols/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
