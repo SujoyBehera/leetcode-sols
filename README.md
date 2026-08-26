@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SujoyBehera/leetcode-sols/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SujoyBehera/leetcode-sols/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SujoyBehera/leetcode-sols/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
@@ -27,4 +28,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SujoyBehera/leetcode-sols/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
