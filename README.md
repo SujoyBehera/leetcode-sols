@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0263-ugly-number) |
 ## Array
 |  |
 | ------- |
