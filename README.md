@@ -12,6 +12,7 @@
 | [0263-ugly-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0263-ugly-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/SujoyBehera/leetcode-sols/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/SujoyBehera/leetcode-sols/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
