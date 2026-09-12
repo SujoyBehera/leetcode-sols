@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/SujoyBehera/leetcode-sols/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
