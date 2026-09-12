@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0263-ugly-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
 | ------- |
