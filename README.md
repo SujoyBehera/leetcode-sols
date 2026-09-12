@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SujoyBehera/leetcode-sols/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0263-ugly-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SujoyBehera/leetcode-sols/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
@@ -40,4 +42,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SujoyBehera/leetcode-sols/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
