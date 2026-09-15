@@ -12,6 +12,7 @@
 | [0263-ugly-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/SujoyBehera/leetcode-sols/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SujoyBehera/leetcode-sols/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/SujoyBehera/leetcode-sols/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/SujoyBehera/leetcode-sols/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SujoyBehera/leetcode-sols/tree/master/2491-smallest-even-multiple) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SujoyBehera/leetcode-sols/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SujoyBehera/leetcode-sols/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SujoyBehera/leetcode-sols/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/SujoyBehera/leetcode-sols/tree/master/0742-to-lower-case) |
 ## Recursion
 |  |
