@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0009-palindrome-number) |
+| [0171-excel-sheet-column-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SujoyBehera/leetcode-sols/tree/master/0231-power-of-two) |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/SujoyBehera/leetcode-sols/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/SujoyBehera/leetcode-sols/tree/master/0742-to-lower-case) |
 ## Recursion
