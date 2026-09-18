@@ -16,6 +16,7 @@
 | [0367-valid-perfect-square](https://github.com/SujoyBehera/leetcode-sols/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SujoyBehera/leetcode-sols/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/SujoyBehera/leetcode-sols/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/SujoyBehera/leetcode-sols/tree/master/2383-add-two-integers) |
