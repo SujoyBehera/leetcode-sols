@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SujoyBehera/leetcode-sols/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/SujoyBehera/leetcode-sols/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SujoyBehera/leetcode-sols/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/0202-happy-number) |
@@ -86,9 +87,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SujoyBehera/leetcode-sols/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/SujoyBehera/leetcode-sols/tree/master/0367-valid-perfect-square) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SujoyBehera/leetcode-sols/tree/master/1013-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SujoyBehera/leetcode-sols/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
